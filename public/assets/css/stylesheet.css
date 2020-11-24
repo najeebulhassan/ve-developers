@@ -1,0 +1,110 @@
+section {
+    padding: 80px 0;
+    position: relative;
+}
+
+
+/* Icon pentagon */
+
+.icon-pentagon {
+    display: inline-block;
+    height: 24px;
+    width: 40px;
+    position: relative;
+    color: #fff;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -ms-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
+.icon-pentagon:hover {
+    color: rgba(0, 0, 0, .5);
+}
+
+.icon-pentagon:before {
+    border-left: 20px solid rgba(0, 0, 0, 0);
+    border-right: 20px solid rgba(0, 0, 0, 0);
+    top: -10px;
+    content: "";
+    height: 0;
+    left: 0;
+    position: absolute;
+    width: 0;
+}
+
+.icon-pentagon:after {
+    border-left: 20px solid rgba(0, 0, 0, 0);
+    border-right: 20px solid rgba(0, 0, 0, 0);
+    bottom: -10px;
+    content: "";
+    height: 0;
+    left: 0;
+    position: absolute;
+    width: 0;
+}
+
+.icon-pentagon i {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.service-icon {
+    height: 46px;
+    width: 90px;
+    margin-bottom: 30px;
+}
+
+.service-icon:before {
+    border-left: 45px solid rgba(0, 0, 0, 0);
+    border-right: 45px solid rgba(0, 0, 0, 0);
+    top: -30px;
+}
+
+.service-icon:after {
+    border-left: 45px solid rgba(0, 0, 0, 0);
+    border-right: 45px solid rgba(0, 0, 0, 0);
+    bottom: -30px;
+}
+
+.service-icon i {
+    font-size: 36px;
+    line-height: 46px;
+}
+
+
+/* Carousel controller */
+
+.carousel-control {
+    width: auto;
+}
+
+.ts-carousel-controller {
+    text-align: center;
+    padding-top: 50px;
+    z-index: 1;
+    position: relative;
+}
+
+.ts-carousel-controller .left,
+.ts-carousel-controller .right,
+.owl-controls .owl-prev,
+.owl-controls .owl-next {
+    cursor: pointer;
+    background: #f6f6f6;
+    width: 38px;
+    height: 38px;
+    line-height: 38px;
+    color: #989898;
+    opacity: 1;
+    top: auto;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    border-radius: 100%;
+}
+
+.owl-controls .owl-next {
+    margin-left: 6px;
+}
