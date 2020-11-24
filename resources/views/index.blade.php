@@ -71,7 +71,7 @@
                 <div class="text-center">
                     <span class="service-icon icon-pentagon"><i class="fas fa-laptop-code"></i></span>
                     <h3>Web Application Development</h3>
-                    <p> Our catering division is widely recognised as one of the market leaders in London.</p><br>
+                    <p> Our team of dedicated software engineers at VEDevelopers helps you build web applications using the latest cutting edge technology stack…</p><br>
                     <a href="web-application-development.php" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
 
                 </div>
@@ -82,7 +82,7 @@
                 <div class="text-center">
                     <span class="service-icon icon-pentagon"><i class="fa fa-android"></i></span>
                     <h3>Mobile Application Development</h3>
-                    <p>Event staff recruitment is a much specialised field in the recruitment industry.</p><br>
+                    <p>Experts at VEDevelopers have significant information on Mobile Technologies(Native Android, Native IOS and Hybrid Mobile Apps). and Frameworks which helps…</p><br>
                     <a href="mobile-apps-development.php" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
                 </div>
 
@@ -93,7 +93,7 @@
                 <div class="text-center">
                     <span class="service-icon icon-pentagon"><i class="fas fa-database"></i></span>
                     <h3>Databases</h3>
-                    <p>Incorporated in the mid-90s, our client is one of Asia’s largest real estate groups. The Singapore office operates one of the largest…</p> <br>
+                    <p>An information base is a sorted out assortment of organized data, or information, ordinarily put away electronically in a PC framework. An information base is typically constrained by a data set administration framework…</p> <br>
                     <a href="databases.php" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
 
                 </div>
@@ -107,7 +107,7 @@
                 <div class="text-center">
                     <span class="service-icon icon-pentagon"><i class="fas fa-poll"></i></span>
                     <h3>Marketing</h3>
-                    <p> Our catering division is widely recognised as one of the market leaders in London, supplying professional, well trained staff to the…</p> <br>
+                    <p>Marketing refers to the activities of a company who takes the responsibility to promote the buying or selling of a product or service. It includes advertising, selling and delivering products to consumers. At its core…</p> <br>
                     <a href="catering" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
 
                 </div>
@@ -118,7 +118,7 @@
                 <div class="text-center">
                     <span class="service-icon icon-pentagon"><i class="fas fa-palette"></i></span>
                     <h3>Graphic Designing</h3>
-                    <p> Our catering division is widely recognised as one of the market leaders in London, supplying professional, well trained staff to the…</p> <br>
+                    <p>Graphic design is a craft where professionals create visual content to communicate messages and ideas through typography, imagery, color and form…</p> <br>
                     <a href="catering" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
 
                 </div>
@@ -129,7 +129,7 @@
                 <div class="text-center">
                     <span class="service-icon icon-pentagon"><i class="fas fa-laptop-code"></i></span>
                     <h3>Content Writing</h3>
-                    <p> Our catering division is widely recognised as one of the market leaders in London, supplying professional, well trained staff to the…</p> <br>
+                    <p>A content writer is a professional writer producing an up to dated content to use online. They are internet expert individuals who creates articles, blog posts, and other kinds of written web material…</p> <br>
                     <a href="catering" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
 
                 </div>
@@ -140,11 +140,11 @@
                 <div class="text-center">
                     <span class="service-icon icon-pentagon"><i class="fas fa-search"></i></span>
                     <h3>Search Engine Optimisation (SEO)</h3>
-                    <p>Incorporated in the mid-90s, our client is one of Asia’s largest real estate groups. The Singapore office operates one of the largest…</p> <br>
+                    <p>Search Engine Optimization (SEO) is the art and science of getting pages to rank higher in search engines…</p> <br>
                     <a href="it-&-telecom" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
                 </div>
             </div>
-            <!--/ End 4th service -->
+            
         </div>
     </div><!-- Content row end -->
     <!--/ Container end -->
