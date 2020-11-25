@@ -50,7 +50,7 @@
             <div class="col-md-12 py-md-5">
                 <div class="heading-section pt-md-5">
                     <h2 class="mb-4">Mobile Application Development</h2>
-                    <p>Experts at MST Developers have significant information on Mobile Technologies(Native Android, Native IOS and
+                    <p>Experts at VEDevelopers have significant information on Mobile Technologies(Native Android, Native IOS and
                         Hybrid Mobile Apps) and Frameworks which helps in building a safe and versatile responsive plan with incredible
                         UI/UX for IOS and Android gadgets and will be advanced for speed effectiveness and security.
                     </p>
@@ -95,22 +95,22 @@
             </div>
             <div id="ionic" class="container tab-pane fade"><br>
                 <p>Ionic changed the scene of portable applications by offering the brisk and modest method of thinking of versatile
-                    applications worked with natural online advances that work across portable applications. We at MST Developers have
+                    applications worked with natural online advances that work across portable applications. We at VEDevelopers have
                     been working with Ionic since it was in early beta and throughout the long term created many half and half applications
                     and staying aware of most recent adaptations of Ionic as Ionic was at first situated in Angular and as Angular
                     improves Ionic continues improving too.
                 </p>
             </div>
             <div id="hybrid" class="container tab-pane fade"><br>
-                <p>MST Developers offer crossover application advancement utilizing the most recent tech stack which incorporates Ionic,
+                <p>VEDevelopers offer crossover application advancement utilizing the most recent tech stack which incorporates Ionic,
                     React Native and Flutter.
                 </p>
             </div>
             <div id="aRvR" class="container tab-pane fade"><br>
-                <p>AR/VR is rapidly changing elements of how we associate with machines. At MST Developers we are offering the types of
+                <p>AR/VR is rapidly changing elements of how we associate with machines. At VEDevelopers we are offering the types of
                     assistance to assemble the up and coming age of AR/VR encounters for your customers and organizations to convey the
                     following influx of advanced encounters. Versatile is the undeniable decision to convey AR/VR encounters to the
-                    clients and at MST Developers we use Unity to create AR/VR encounters.
+                    clients and at VEDevelopers we use Unity to create AR/VR encounters.
                 </p>
             </div>
         </div>
@@ -259,111 +259,7 @@
     </div>
 </section>
 
-<section class="ftco-section ftco-no-pt bg-light ftco-faqs">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="img-faqs w-100">
-                    <div class="img mb-4 mb-sm-0" style="background-image:url(public/assets/images/about-2.jpg);">
-                    </div>
-                    <div class="img img-2 mb-4 mb-sm-0" style="background-image:url(public/assets/images/about-1.jpg);">
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6 pl-lg-5">
-                <div class="heading-section mb-5 mt-5 mt-lg-0">
-                    <span class="subheading">FAQs</span>
-                    <h2 class="mb-3">Frequently Asks Questions</h2>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                </div>
-                <div id="accordion" class="myaccordion w-100" aria-multiselectable="true">
-                    <div class="card">
-                        <div class="card-header p-0" id="headingOne">
-                            <h2 class="mb-0">
-                                <button href="#collapseOne" class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link" data-parent="#accordion" data-toggle="collapse" aria-expanded="true" aria-controls="collapseOne">
-                                    <p class="mb-0">How to fixed a problem?</p>
-                                    <i class="fa" aria-hidden="true"></i>
-                                </button>
-                            </h2>
-                        </div>
-                        <div class="collapse show" id="collapseOne" role="tabpanel" aria-labelledby="headingOne">
-                            <div class="card-body py-3 px-0">
-                                <ol>
-                                    <li>Far far away, behind the word mountains</li>
-                                    <li>Consonantia, there live the blind texts</li>
-                                    <li>When she reached the first hills of the Italic Mountains</li>
-                                    <li>Bookmarksgrove, the headline of Alphabet Village</li>
-                                    <li>Separated they live in Bookmarksgrove right</li>
-                                </ol>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <div class="card-header p-0" id="headingTwo" role="tab">
-                            <h2 class="mb-0">
-                                <button href="#collapseTwo" class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link" data-parent="#accordion" data-toggle="collapse" aria-expanded="false" aria-controls="collapseTwo">
-                                    <p class="mb-0">How to manage your business loans?</p>
-                                    <i class="fa" aria-hidden="true"></i>
-                                </button>
-                            </h2>
-                        </div>
-                        <div class="collapse" id="collapseTwo" role="tabpanel" aria-labelledby="headingTwo">
-                            <div class="card-body py-3 px-0">
-                                <ol>
-                                    <li>Far far away, behind the word mountains</li>
-                                    <li>Consonantia, there live the blind texts</li>
-                                    <li>When she reached the first hills of the Italic Mountains</li>
-                                    <li>Bookmarksgrove, the headline of Alphabet Village</li>
-                                    <li>Separated they live in Bookmarksgrove right</li>
-                                </ol>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <div class="card-header p-0" id="headingThree" role="tab">
-                            <h2 class="mb-0">
-                                <button href="#collapseThree" class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link" data-parent="#accordion" data-toggle="collapse" aria-expanded="false" aria-controls="collapseThree">
-                                    <p class="mb-0">How to grow your investments funds?</p>
-                                    <i class="fa" aria-hidden="true"></i>
-                                </button>
-                            </h2>
-                        </div>
-                        <div class="collapse" id="collapseThree" role="tabpanel" aria-labelledby="headingTwo">
-                            <div class="card-body py-3 px-0">
-                                <ol>
-                                    <li>Far far away, behind the word mountains</li>
-                                    <li>Consonantia, there live the blind texts</li>
-                                    <li>When she reached the first hills of the Italic Mountains</li>
-                                    <li>Bookmarksgrove, the headline of Alphabet Village</li>
-                                    <li>Separated they live in Bookmarksgrove right</li>
-                                </ol>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <div class="card-header p-0" id="headingFour" role="tab">
-                            <h2 class="mb-0">
-                                <button href="#collapseFour" class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link" data-parent="#accordion" data-toggle="collapse" aria-expanded="false" aria-controls="collapseFour">
-                                    <p class="mb-0">What are those requirements for businesses?</p>
-                                    <i class="fa" aria-hidden="true"></i>
-                                </button>
-                            </h2>
-                        </div>
-                        <div class="collapse" id="collapseFour" role="tabpanel" aria-labelledby="headingTwo">
-                            <div class="card-body py-3 px-0">
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
+@include('layouts.faqs')
 
 <section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
     <div class="container py-5">

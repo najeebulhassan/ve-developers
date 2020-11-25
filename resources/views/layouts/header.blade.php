@@ -42,7 +42,7 @@
                             <div class="col-md-6 d-flex align-items-center">
                                 <p class="mb-0 phone pl-md-2">
                                     <a href="#" class="mr-2"><span class="fa fa-phone mr-1"></span> +00 1234 567</a>
-                                    <a href="#"><span class="fa fa-paper-plane mr-1"></span> youremail@email.com</a>
+                                    <a href="#"><span class="fa fa-paper-plane mr-1"></span> info@vedevelopers.com</a>
                                 </p>
                             </div>
                             <div class="col-md-6 d-flex justify-content-md-end">
@@ -50,8 +50,7 @@
                                     <p class="mb-0 d-flex">
                                         <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
                                         <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
-                                        <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
-                                        <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-dribbble"><i class="sr-only">Dribbble</i></span></a>
+                                        <a href="#" class="d-flex align-items-center justify-content-center"><span class="fab fa-linkedin"></span><i class="sr-only">Linkedin</i></span></a>
                                     </p>
                                 </div>
                             </div>
@@ -75,15 +74,15 @@
             </button>
             <div class="collapse navbar-collapse" id="ftco-nav">
                 <ul class="navbar-nav m-auto">
-                    <li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
-                    <li class="nav-item"><a href="about.php" class="nav-link">About Us</a></li>
-                    <li class="nav-item"><a href="our-aim.php" class="nav-link">Our Aim</a></li>
-                    <li class="nav-item"><a href="services.php" class="nav-link">Services</a></li>
-                    <li class="nav-item"><a href="portfolio.php" class="nav-link">Portfolio</a></li>
+                    <li class="nav-item active"><a href="{{url('/')}}" class="nav-link">Home</a></li>
+                    <li class="nav-item"><a href="about-us" class="nav-link">About Us</a></li>
+                    <li class="nav-item"><a href="our-aim" class="nav-link">Our Aim</a></li>
+                    <li class="nav-item"><a href="our-services" class="nav-link">Services</a></li>
+                    <li class="nav-item"><a href="portfolio" class="nav-link">Portfolio</a></li>
                     <!-- <li class="nav-item"><a href="cases.php" class="nav-link">Case Study</a></li> -->
                     <!-- <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li> -->
-                    <li class="nav-item"><a href="testimonials.php" class="nav-link">Testimonials</a></li>
-                    <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
+                    <li class="nav-item"><a href="testimonials" class="nav-link">Testimonials</a></li>
+                    <li class="nav-item"><a href="contact-us" class="nav-link">Contact</a></li>
                 </ul>
             </div>
         </div>

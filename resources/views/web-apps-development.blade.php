@@ -56,7 +56,7 @@
                 <div class="heading-section pt-md-5">
                     <!-- <span class="subheading">We Create Small Solutions in United Kingdom</span> -->
                     <h2 class="mb-4">Web Application Development</h2>
-                    <p>Our team of dedicated software engineers at MST Developers helps you build web applications using the latest cutting
+                    <p>Our team of dedicated software engineers at VEDevelopers helps you build web applications using the latest cutting
                         edge technology stack which includes but not limited to Python/Django, Flask, NodeJS/ExpressJS, Laravel, Ruby on
                         Rails and ASP.NET on the backend as well as React, Angular and Vue on the frontend. We help you choose the best
                         stack according to your requirements. We also offer CMS/CRM based development services with popular CMS/CRM
@@ -189,10 +189,10 @@
         <!-- Tab panes -->
         <div class="tab-content">
             <div id="backend" class="container tab-pane active"><br>
-                <p>At MST Developers, We represent considerable authority in backend advancement with ability in wide scope of backend
+                <p>At VEDevelopers, We represent considerable authority in backend advancement with ability in wide scope of backend
                     dialects and systems. Wether you need to construct an application without any preparation or hoping to broaden/keep up
                     your current backend we can furnish you with the correct group or designer to carry out that responsibility.
-                    MST Developers follow the light-footed technique all through the lifecycle of the task where every day announcements
+                    VEDevelopers follow the light-footed technique all through the lifecycle of the task where every day announcements
                     and week by week runs/stand ups are essential for our cycle. We suggest you the best innovation stack that suit your
                     business necessities while keeping your inclination in thought.
                 </p>
@@ -206,7 +206,7 @@
                 </ul>
             </div>
             <div id="frontend" class="container tab-pane fade"><br>
-                <p>MST Developers work with bleeding edge javascript structures like ReactJs, AngularJS, Angular7+ and Vue JS to work cutting edge
+                <p>VEDevelopers work with bleeding edge javascript structures like ReactJs, AngularJS, Angular7+ and Vue JS to work cutting edge
                     frontend hurl web applications. Our architects convey responsive SPA (single page applications) and other web
                     applications that works over completely upheld gadgets from handheld to enormous 5k shows. Our frontend group works
                     intimately with our in-house UI/UX group or distant UI/UX groups on customer's premises and convey pixel flawless
@@ -225,7 +225,7 @@
                 </ul>
             </div>
             <div id="pythonDjangoFlask" class="container tab-pane fade"><br>
-                <p>Python is one of our center mastery at MST Developers and we have been working with python since 2013. We have worked
+                <p>Python is one of our center mastery at VEDevelopers and we have been working with python since 2013. We have worked
                     with assortment of Python structures including Django, Flask, Pyramid and Tornado yet Django is our system of decision
                     with regards to architecting an enormous scope application. Django Rest Framework is an incredible apparatus to
                     immediately think of API backend frameworks to be utilized with versatile applications or Single Page Applications.
@@ -241,7 +241,7 @@
             <div id="nodeJs" class="container tab-pane fade"><br>
                 <p>NodeJS is one of the quickest developing Javascript based backend system lately. NodeJS have occasion driven design
                     which settles on it a structure of decision with regards to continuous applications. It mixes well with NoSQL databased
-                    like MongoDB and Cassandra and MST Developers truly suggests it for applications that need associated engineering like
+                    like MongoDB and Cassandra and VEDevelopers truly suggests it for applications that need associated engineering like
                     visit applications or ongoing notices and compose concentrated applications. NodeJS is regularly utilized with React
                     or Angular frontend related to Sails or Express. Mainstream NodeJS stacks that we work with are MEAN and MERN.
                 </p>
@@ -250,14 +250,14 @@
                 <p>As indicated by W3Techs, an organization which screens and reviews web innovation utilization more than 30% of sites over
                     the globe use WordPress as their substance the executives framework. WordPress is quickest approach to create feature and
                     portfolio sites and offers wide scope of instruments and modules to get your site ready for action in days. At
-                    MST Developers we have engineers that are very knowledgeable with WordPress and can get your portfolio, item data,
+                    VEDevelopers we have engineers that are very knowledgeable with WordPress and can get your portfolio, item data,
                     internet business or other significant sites fully operational in days. We have experience expanding on head of
                     well known topics like Avada, Divi, Flatsome alongside custom modules and subject improvement administrations.
                 </p>
             </div>
             <div id="openCart" class="container tab-pane fade"><br>
                 <p>OpenCart is an extraordinary instrument in the event that you need to get your web based business store ready for action.
-                    At MST Developers we offer types of assistance in OpenCart applications improvement, OpenCart subject turn of events and
+                    At VEDevelopers we offer types of assistance in OpenCart applications improvement, OpenCart subject turn of events and
                     other related administrations. OpenCart is especially extremely mainstream with Drop-transporters.
                 </p>
             </div>
@@ -407,111 +407,7 @@
     </div>
 </section>
 
-<section class="ftco-section ftco-no-pt bg-light ftco-faqs">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="img-faqs w-100">
-                    <div class="img mb-4 mb-sm-0" style="background-image:url(public/assets/images/about-2.jpg);">
-                    </div>
-                    <div class="img img-2 mb-4 mb-sm-0" style="background-image:url(public/assets/images/about-1.jpg);">
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6 pl-lg-5">
-                <div class="heading-section mb-5 mt-5 mt-lg-0">
-                    <span class="subheading">FAQs</span>
-                    <h2 class="mb-3">Frequently Asks Questions</h2>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                </div>
-                <div id="accordion" class="myaccordion w-100" aria-multiselectable="true">
-                    <div class="card">
-                        <div class="card-header p-0" id="headingOne">
-                            <h2 class="mb-0">
-                                <button href="#collapseOne" class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link" data-parent="#accordion" data-toggle="collapse" aria-expanded="true" aria-controls="collapseOne">
-                                    <p class="mb-0">How to fixed a problem?</p>
-                                    <i class="fa" aria-hidden="true"></i>
-                                </button>
-                            </h2>
-                        </div>
-                        <div class="collapse show" id="collapseOne" role="tabpanel" aria-labelledby="headingOne">
-                            <div class="card-body py-3 px-0">
-                                <ol>
-                                    <li>Far far away, behind the word mountains</li>
-                                    <li>Consonantia, there live the blind texts</li>
-                                    <li>When she reached the first hills of the Italic Mountains</li>
-                                    <li>Bookmarksgrove, the headline of Alphabet Village</li>
-                                    <li>Separated they live in Bookmarksgrove right</li>
-                                </ol>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <div class="card-header p-0" id="headingTwo" role="tab">
-                            <h2 class="mb-0">
-                                <button href="#collapseTwo" class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link" data-parent="#accordion" data-toggle="collapse" aria-expanded="false" aria-controls="collapseTwo">
-                                    <p class="mb-0">How to manage your business loans?</p>
-                                    <i class="fa" aria-hidden="true"></i>
-                                </button>
-                            </h2>
-                        </div>
-                        <div class="collapse" id="collapseTwo" role="tabpanel" aria-labelledby="headingTwo">
-                            <div class="card-body py-3 px-0">
-                                <ol>
-                                    <li>Far far away, behind the word mountains</li>
-                                    <li>Consonantia, there live the blind texts</li>
-                                    <li>When she reached the first hills of the Italic Mountains</li>
-                                    <li>Bookmarksgrove, the headline of Alphabet Village</li>
-                                    <li>Separated they live in Bookmarksgrove right</li>
-                                </ol>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <div class="card-header p-0" id="headingThree" role="tab">
-                            <h2 class="mb-0">
-                                <button href="#collapseThree" class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link" data-parent="#accordion" data-toggle="collapse" aria-expanded="false" aria-controls="collapseThree">
-                                    <p class="mb-0">How to grow your investments funds?</p>
-                                    <i class="fa" aria-hidden="true"></i>
-                                </button>
-                            </h2>
-                        </div>
-                        <div class="collapse" id="collapseThree" role="tabpanel" aria-labelledby="headingTwo">
-                            <div class="card-body py-3 px-0">
-                                <ol>
-                                    <li>Far far away, behind the word mountains</li>
-                                    <li>Consonantia, there live the blind texts</li>
-                                    <li>When she reached the first hills of the Italic Mountains</li>
-                                    <li>Bookmarksgrove, the headline of Alphabet Village</li>
-                                    <li>Separated they live in Bookmarksgrove right</li>
-                                </ol>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <div class="card-header p-0" id="headingFour" role="tab">
-                            <h2 class="mb-0">
-                                <button href="#collapseFour" class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link" data-parent="#accordion" data-toggle="collapse" aria-expanded="false" aria-controls="collapseFour">
-                                    <p class="mb-0">What are those requirements for businesses?</p>
-                                    <i class="fa" aria-hidden="true"></i>
-                                </button>
-                            </h2>
-                        </div>
-                        <div class="collapse" id="collapseFour" role="tabpanel" aria-labelledby="headingTwo">
-                            <div class="card-body py-3 px-0">
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
+@include('layouts.faqs')
 
 <section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
     <div class="container py-5">

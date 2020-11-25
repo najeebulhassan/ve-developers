@@ -5,13 +5,11 @@
                     <div class="row">
                         <div class="col-md-4 mb-md-0 mb-4">
                             <h2 class="footer-heading">About us</h2>
-                            <p style="color:white">MST Developers is a renowned Web & IT Company in UK providing specialized services in Website Designing,
-                                Website Development, Mobile Application Development for Android, Graphics Designing, SEO Services, Digital Marketing
-                                and much more.</p>
+                            <p style="color:white">VEDevelopers is a renowned Web & IT Company in UK providing specialized services in Website Designing, Website Development, Mobile Application Development for Android, Graphics Designing, SEO Services, Digital Marketing and much more.</p>
                             <ul class="ftco-footer-social p-0">
-                                <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
                                 <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Instagram"><span class="fa fa-instagram"></span></a></li>
+                                <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
+                                <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Instagram"><span class="fa fa-linkedin"></span></a></li>
                             </ul>
                         </div>
                         <div class="col-md-8">
@@ -32,7 +30,7 @@
                                             <ul class="list-unstyled">
                                                 <li><a href="#" class="py-1 d-block">About us</a></li>
                                                 <li><a href="#" class="py-1 d-block">Contract us</a></li>
-                                                <li><a href="#" class="py-1 d-block">Terms &amp; Conditions</a></li>
+                                                <li><a href="#" class="py-1 d-block">Terms & Conditions</a></li>
                                                 <li><a href="#" class="py-1 d-block">Policies</a></li>
                                             </ul>
                                         </div>
@@ -56,7 +54,7 @@
                                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                                 Copyright &copy;<script>
                                     document.write(new Date().getFullYear());
-                                </script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib.com</a>
+                                </script> Developed by <a href="https://vedevelopers.com">Virtual Eye Developers</a>
                                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                             </p>
                         </div>

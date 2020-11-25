@@ -2,8 +2,7 @@
 @section('title','VEDevelopers')
 @section('content')
 
-
-<div class="hero-wrap">
+<!-- <div class="hero-wrap">
     <div class="home-slider owl-carousel">
         <div class="slider-item" style="background-image:url(public/assets/images/bg_1.jpg);">
             <div class="overlay"></div>
@@ -12,7 +11,6 @@
                     <div class="col-md-8 ftco-animate">
                         <div class="text w-100 text-center">
                             <h3 style="color:#413c69;">Microsoft Technology Development</h3>
-                            <!-- <h2>We Business Grow</h2> -->
                             <h1 class="mb-4">Digital Strategies To Help You Get More</h1>
                             <p><a href="#" class="btn btn-white">Connect with us</a></p>
                         </div>
@@ -28,7 +26,6 @@
                     <div class="col-md-8 ftco-animate">
                         <div class="text w-100 text-center">
                             <h3 style="color:#413c69;">Creativity & Technology</h3>
-                            <!-- <h2>We Support Business</h2> -->
                             <h1 class="mb-4">MORE BUSINESS GROWTH</h1>
                             <h3 style="color: white;"> Web Development & Designing, SEO, Digital Marketing & More...</h3>
                             <p><a href="#" class="btn btn-white">Connect with us</a></p>
@@ -45,8 +42,7 @@
                     <div class="col-md-8 ftco-animate">
                         <div class="text w-100 text-center">
                             <h3 style="color:#413c69;"> Hire the Best</h3>
-                            <!-- <h2>We Give Advice</h2> -->
-                            <h3 style="color: white;">Ask MST to create a comprehensive and aggressive digital marketing plan taking your business to new heights.</h3>
+                            <h3 style="color: white;">Ask VEDevelopers to create a comprehensive and aggressive digital marketing plan taking your business to new heights.</h3>
                             <p><a href="#" class="btn btn-white">Connect with us</a></p>
                         </div>
                     </div>
@@ -54,14 +50,19 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
+<video autoplay muted loop id="myVideo" style="width: 1348px;">
+
+    <source src="public/assets/videos/ved-video.mp4" type="video/mp4">
+
+</video>
 <!-- Service box start -->
 <section id="service" class="service angle">
     <div class="container">
         <div class="row" style="margin-bottom: 70px;">
             <div class="col-md-12 heading-section" style="text-align: center;">
                 <!-- <span><i class="fa fa-cogs" style="font-size: 50px;"></i></span> -->
-                <h2 style="letter-spacing: 5px;"> Welcome to MST Developers</h2>
+                <h2 style="letter-spacing: 5px;"> Welcome to VEDevelopers</h2>
                 <h3>We Provide The Best Software Solutions</h3>
             </div>
         </div><!-- Title row end --><br>
@@ -72,7 +73,7 @@
                     <span class="service-icon icon-pentagon"><i class="fas fa-laptop-code"></i></span>
                     <h3>Web Application Development</h3>
                     <p> Our team of dedicated software engineers at VEDevelopers helps you build web applications using the latest cutting edge technology stack…</p><br>
-                    <a href="web-application-development.php" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
+                    <a href="web-apps-development" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
 
                 </div>
             </div>
@@ -83,7 +84,7 @@
                     <span class="service-icon icon-pentagon"><i class="fa fa-android"></i></span>
                     <h3>Mobile Application Development</h3>
                     <p>Experts at VEDevelopers have significant information on Mobile Technologies(Native Android, Native IOS and Hybrid Mobile Apps). and Frameworks which helps…</p><br>
-                    <a href="mobile-apps-development.php" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
+                    <a href="mobile-apps-development" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
                 </div>
 
             </div>
@@ -94,7 +95,7 @@
                     <span class="service-icon icon-pentagon"><i class="fas fa-database"></i></span>
                     <h3>Databases</h3>
                     <p>An information base is a sorted out assortment of organized data, or information, ordinarily put away electronically in a PC framework. An information base is typically constrained by a data set administration framework…</p> <br>
-                    <a href="databases.php" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
+                    <a href="databases" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
 
                 </div>
             </div>
@@ -108,7 +109,7 @@
                     <span class="service-icon icon-pentagon"><i class="fas fa-poll"></i></span>
                     <h3>Marketing</h3>
                     <p>Marketing refers to the activities of a company who takes the responsibility to promote the buying or selling of a product or service. It includes advertising, selling and delivering products to consumers. At its core…</p> <br>
-                    <a href="catering" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
+                    <a href="marketing" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
 
                 </div>
             </div>
@@ -119,7 +120,7 @@
                     <span class="service-icon icon-pentagon"><i class="fas fa-palette"></i></span>
                     <h3>Graphic Designing</h3>
                     <p>Graphic design is a craft where professionals create visual content to communicate messages and ideas through typography, imagery, color and form…</p> <br>
-                    <a href="catering" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
+                    <a href="graphic-design" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
 
                 </div>
             </div>
@@ -130,7 +131,7 @@
                     <span class="service-icon icon-pentagon"><i class="fas fa-laptop-code"></i></span>
                     <h3>Content Writing</h3>
                     <p>A content writer is a professional writer producing an up to dated content to use online. They are internet expert individuals who creates articles, blog posts, and other kinds of written web material…</p> <br>
-                    <a href="catering" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
+                    <a href="content-writing" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
 
                 </div>
             </div>
@@ -141,10 +142,10 @@
                     <span class="service-icon icon-pentagon"><i class="fas fa-search"></i></span>
                     <h3>Search Engine Optimisation (SEO)</h3>
                     <p>Search Engine Optimization (SEO) is the art and science of getting pages to rank higher in search engines…</p> <br>
-                    <a href="it-&-telecom" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
+                    <a href="search-engine-optimization" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
                 </div>
             </div>
-            
+
         </div>
     </div><!-- Content row end -->
     <!--/ Container end -->
@@ -390,110 +391,7 @@
     </div>
 </section>
 
-<section class="ftco-section ftco-no-pt bg-light ftco-faqs">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="img-faqs w-100">
-                    <div class="img mb-4 mb-sm-0" style="background-image:url(public/assets/images/about-2.jpg);">
-                    </div>
-                    <div class="img img-2 mb-4 mb-sm-0" style="background-image:url(public/assets/images/about-1.jpg);">
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6 pl-lg-5">
-                <div class="heading-section mb-5 mt-5 mt-lg-0">
-                    <span class="subheading">FAQs</span>
-                    <h2 class="mb-3">Frequently Asks Questions</h2>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                </div>
-                <div id="accordion" class="myaccordion w-100" aria-multiselectable="true">
-                    <div class="card">
-                        <div class="card-header p-0" id="headingOne">
-                            <h2 class="mb-0">
-                                <button href="#collapseOne" class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link" data-parent="#accordion" data-toggle="collapse" aria-expanded="true" aria-controls="collapseOne">
-                                    <p class="mb-0">How to fixed a problem?</p>
-                                    <i class="fa" aria-hidden="true"></i>
-                                </button>
-                            </h2>
-                        </div>
-                        <div class="collapse show" id="collapseOne" role="tabpanel" aria-labelledby="headingOne">
-                            <div class="card-body py-3 px-0">
-                                <ol>
-                                    <li>Far far away, behind the word mountains</li>
-                                    <li>Consonantia, there live the blind texts</li>
-                                    <li>When she reached the first hills of the Italic Mountains</li>
-                                    <li>Bookmarksgrove, the headline of Alphabet Village</li>
-                                    <li>Separated they live in Bookmarksgrove right</li>
-                                </ol>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <div class="card-header p-0" id="headingTwo" role="tab">
-                            <h2 class="mb-0">
-                                <button href="#collapseTwo" class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link" data-parent="#accordion" data-toggle="collapse" aria-expanded="false" aria-controls="collapseTwo">
-                                    <p class="mb-0">How to manage your business loans?</p>
-                                    <i class="fa" aria-hidden="true"></i>
-                                </button>
-                            </h2>
-                        </div>
-                        <div class="collapse" id="collapseTwo" role="tabpanel" aria-labelledby="headingTwo">
-                            <div class="card-body py-3 px-0">
-                                <ol>
-                                    <li>Far far away, behind the word mountains</li>
-                                    <li>Consonantia, there live the blind texts</li>
-                                    <li>When she reached the first hills of the Italic Mountains</li>
-                                    <li>Bookmarksgrove, the headline of Alphabet Village</li>
-                                    <li>Separated they live in Bookmarksgrove right</li>
-                                </ol>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <div class="card-header p-0" id="headingThree" role="tab">
-                            <h2 class="mb-0">
-                                <button href="#collapseThree" class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link" data-parent="#accordion" data-toggle="collapse" aria-expanded="false" aria-controls="collapseThree">
-                                    <p class="mb-0">How to grow your investments funds?</p>
-                                    <i class="fa" aria-hidden="true"></i>
-                                </button>
-                            </h2>
-                        </div>
-                        <div class="collapse" id="collapseThree" role="tabpanel" aria-labelledby="headingTwo">
-                            <div class="card-body py-3 px-0">
-                                <ol>
-                                    <li>Far far away, behind the word mountains</li>
-                                    <li>Consonantia, there live the blind texts</li>
-                                    <li>When she reached the first hills of the Italic Mountains</li>
-                                    <li>Bookmarksgrove, the headline of Alphabet Village</li>
-                                    <li>Separated they live in Bookmarksgrove right</li>
-                                </ol>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <div class="card-header p-0" id="headingFour" role="tab">
-                            <h2 class="mb-0">
-                                <button href="#collapseFour" class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link" data-parent="#accordion" data-toggle="collapse" aria-expanded="false" aria-controls="collapseFour">
-                                    <p class="mb-0">What are those requirements for businesses?</p>
-                                    <i class="fa" aria-hidden="true"></i>
-                                </button>
-                            </h2>
-                        </div>
-                        <div class="collapse" id="collapseFour" role="tabpanel" aria-labelledby="headingTwo">
-                            <div class="card-body py-3 px-0">
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+@include('layouts.faqs')
 
 <section class="ftco-section">
     <div class="container">
@@ -551,7 +449,7 @@
 </section>
 
 
-<section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
+<!-- <section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
     <div class="container py-5">
         <div class="row">
             <div class="col-md-7 d-flex align-items-center">
@@ -567,7 +465,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <section class="ftco-section bg-light">
     <div class="container">
