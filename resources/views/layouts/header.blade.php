@@ -62,7 +62,7 @@
     </div>
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
         <div class="container">
-            <a class="navbar-brand" href="index.php"><img class="img-fluid" src="public/assets/images/ved-logo-aqua.png" style="height: 80px;width: 150px;"></a>
+            <a class="navbar-brand" href="index.php"><img class="img-fluid" src="public/assets/ved-logo-2.png" style=""></a>
             <form action="#" class="searchform order-sm-start order-lg-last">
                 <div class="form-group d-flex">
                     <input type="text" class="form-control pl-3" placeholder="Search">
