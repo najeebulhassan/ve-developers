@@ -2,7 +2,7 @@
 @section('title','About Us')
 @section('content')
 
-<section class="hero-wrap hero-wrap-2" style="background-image: url('public/assets/images/bg_2.jpg');" data-stellar-background-ratio="0.5">
+<section class="hero-wrap hero-wrap-2" style="background-image: url('public/assets/ved/about-title-picture.jpg');" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
         <div class="row no-gutters slider-text align-items-end">
@@ -180,8 +180,7 @@
 
 @include('layouts.faqs')
 
-
-<section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
+<!-- <section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
     <div class="container py-5">
         <div class="row">
             <div class="col-md-7 d-flex align-items-center">
@@ -197,7 +196,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 

@@ -55,7 +55,7 @@
         </div>
 </section>
 
-<section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
+<!-- <section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
     <div class="container py-5">
         <div class="row">
             <div class="col-md-7 d-flex align-items-center">
@@ -71,7 +71,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- loader -->
 <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px">

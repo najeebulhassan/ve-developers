@@ -10775,7 +10775,7 @@ h5,
 
 .wrap .bg-wrap {
     /* background: #3a2e5e; */
-    background: #6EC2D3;
+    background: rgb(0,255,255);
     padding: 0;
     position: relative;
     z-index: 0;
@@ -10790,7 +10790,7 @@ h5,
     height: 0;
     border-style: solid;
     border-width: 0 0 40px 40px;
-    border-color: transparent transparent #6EC2D3 transparent;
+    border-color: transparent transparent rgb(0,255,255) transparent;
     z-index: -1;
 }
 
@@ -10803,7 +10803,7 @@ h5,
     height: 0;
     border-style: solid;
     border-width: 40px 40px 0 0;
-    border-color: #6EC2D3 transparent transparent transparent;
+    border-color: rgb(0,255,255) transparent transparent transparent;
     z-index: -1;
 }
 
@@ -11021,12 +11021,12 @@ h5,
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item.active>a {
-    color: #6EC2D3;
+    color: rgb(0,255,255);
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item.active>a:before {
     visibility: visible;
-    background-color: #6EC2D3;
+    background-color: rgb(0,255,255);
     -webkit-transform: scaleX(1);
     -ms-transform: scaleX(1);
     transform: scaleX(1);
@@ -11591,8 +11591,8 @@ h5,
 }
 
 .btn.btn-primary {
-    background: #6EC2D3;
-    border: 1px solid #6EC2D3;
+    background: rgb(0,255,255);
+    border: 1px solid rgb(0,255,255);
     color: #fff;
 }
 
@@ -11615,8 +11615,8 @@ h5,
 }
 
 .btn.btn-white {
-    background: #6EC2D3;
-    border: 1px solid #6EC2D3;
+    background: rgb(0,255,255);
+    border: 1px solid rgb(0,255,255);
     color: #fff;
 }
 
@@ -11841,7 +11841,7 @@ h5,
     font-weight: 700;
     font-size: 50px;
     /* color: #1ba12d; */
-    color: #6EC2D3;
+    color: rgb(0,255,255);
     display: block;
     margin-bottom: 10px;
 }
@@ -12029,7 +12029,7 @@ textarea.form-control {
 }
 
 .footer a {
-    color: #6EC2D3;
+    color: rgb(0,255,255);
 }
 
 .footer .footer-heading {
@@ -12093,7 +12093,7 @@ textarea.form-control {
 }
 
 .footer .form-consultation .submit {
-    background: #6EC2D3 !important;
+    background: rgb(0,255,255) !important;
     color: #fff !important;
 }
 
@@ -12197,7 +12197,7 @@ textarea.form-control {
     display: block;
     font-weight: 600;
     /* color: #1ba12d; */
-    color: #6EC2D3;
+    color: rgb(0,255,255);
     text-transform: uppercase;
     letter-spacing: 2px;
 }
@@ -12360,7 +12360,7 @@ textarea.form-control {
 }
 
 .testimony-section .owl-dots .owl-dot.active {
-    background: #6EC2D3;
+    background: rgb(0,255,255);
 }
 
 .testimony-wrap {
@@ -12382,7 +12382,7 @@ textarea.form-control {
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background: #6EC2D3;
+    background: rgb(0,255,255);
 }
 
 .testimony-wrap .icon span {
@@ -12495,7 +12495,7 @@ textarea.form-control {
 }
 
 .ftco-faqs button[aria-expanded="true"] {
-    background-color: #6EC2D3;
+    background-color: rgb(0,255,255);
     color: #fff !important;
 }
 
@@ -12602,7 +12602,7 @@ textarea.form-control {
 }
 
 .blog-entry .text .meta-chat {
-    color: #6EC2D3;
+    color: rgb(0,255,255);
 }
 
 .blog-entry .text .read {
@@ -12973,7 +12973,7 @@ textarea.form-control {
 
 .subscribe-form .form-group .submit {
     color: #fff !important;
-    background: #6EC2D3 !important;
+    background: rgb(0,255,255) !important;
     border-radius: 0px 5px 5px 0px;
     font-size: 16px;
 }

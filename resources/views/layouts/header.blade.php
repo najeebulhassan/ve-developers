@@ -30,6 +30,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <link rel="stylesheet" href="public/assets/css/richtext.min.css">
+
+    <link rel="icon" href="{{url('public/assets/ved-favicon.png')}}" />
+    
 </head>
 
 <body>
@@ -41,7 +44,7 @@
                         <div class="row">
                             <div class="col-md-6 d-flex align-items-center">
                                 <p class="mb-0 phone pl-md-2">
-                                    <a href="#" class="mr-2"><span class="fa fa-phone mr-1"></span> +00 1234 567</a>
+                                    <a href="#" class="mr-2"><span class="fa fa-phone mr-1"></span> 0020-3813-0607</a>
                                     <a href="#"><span class="fa fa-paper-plane mr-1"></span> info@vedevelopers.com</a>
                                 </p>
                             </div>
@@ -62,7 +65,7 @@
     </div>
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
         <div class="container">
-            <a class="navbar-brand" href="index.php"><img class="img-fluid" src="public/assets/ved-logo-2.png" style=""></a>
+            <a class="navbar-brand" href="{{url('/')}}"><img class="img-fluid" src="public/assets/ved-logo-2.png"></a>
             <form action="#" class="searchform order-sm-start order-lg-last">
                 <div class="form-group d-flex">
                     <input type="text" class="form-control pl-3" placeholder="Search">

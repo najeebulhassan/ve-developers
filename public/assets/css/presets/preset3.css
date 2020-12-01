@@ -54,7 +54,7 @@ h2.entry-title a:hover {
 /* Icon pentagon */
 
 .icon-pentagon {
-    background: none repeat scroll 0 0#6EC2D3;
+    background: none repeat scroll 0 0 rgb(0,255,255);
 }
 
 .icon-pentagon:before {
@@ -66,11 +66,11 @@ h2.entry-title a:hover {
 }
 
 .service-icon:before {
-    border-bottom: 30px solid #6EC2D3;
+    border-bottom: 30px solid rgb(0,255,255);
 }
 
 .service-icon:after {
-    border-top: 30px solid #6EC2D3;
+    border-top: 30px solid rgb(0,255,255);
 }
 
 
