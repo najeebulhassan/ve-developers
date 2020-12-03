@@ -83,7 +83,7 @@
             </div>
         </div>
     </footer>
-
+    
     <script src="public/assets/js/jquery.min.js"></script>
     <script src="public/assets/js/jquery-migrate-3.0.1.min.js"></script>
     <script src="public/assets/js/popper.min.js"></script>
@@ -103,6 +103,9 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
     <!-- Third party plugin JS-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+    <!-- slider -->
+    <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js"></script>
+
     <!-- Contact form JS-->
     <!-- Core theme JS-->
     </body>

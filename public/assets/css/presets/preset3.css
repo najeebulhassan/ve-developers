@@ -56,20 +56,35 @@ h2.entry-title a:hover {
 .icon-pentagon {
     background: none repeat scroll 0 0 rgb(0,255,255);
 }
+.icon-pentagon-new {
+    background: none repeat scroll 0 0 rgb(0,255,255);
+}
 
 .icon-pentagon:before {
+    border-bottom: 10px solid #51284f;
+}
+.icon-pentagon-new:before {
     border-bottom: 10px solid #51284f;
 }
 
 .icon-pentagon:after {
     border-top: 10px solid #51284f;
 }
+.icon-pentagon-new:after {
+    border-top: 10px solid #51284f;
+}
 
 .service-icon:before {
     border-bottom: 30px solid rgb(0,255,255);
 }
+.service-icon-new:before {
+    border-bottom: 30px solid rgb(0,255,255);
+}
 
 .service-icon:after {
+    border-top: 30px solid rgb(0,255,255);
+}
+.service-icon-new:after {
     border-top: 30px solid rgb(0,255,255);
 }
 

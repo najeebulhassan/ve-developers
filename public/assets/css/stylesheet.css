@@ -19,8 +19,25 @@ section {
     transition: all 0.3s ease 0s;
 }
 
+.icon-pentagon-new {
+    display: inline-block;
+    height: 24px;
+    width: 40px;
+    position: relative;
+    color: #fff;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -ms-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
 .icon-pentagon:hover {
     color: rgba(0, 0, 0, .5);
+}
+
+.icon-pentagon-new:hover {
+    color: rgba(255, 255, 255, 1);
 }
 
 .icon-pentagon:before {
@@ -34,7 +51,28 @@ section {
     width: 0;
 }
 
+.icon-pentagon-new:before {
+    border-left: 20px solid rgba(0, 0, 0, 0);
+    border-right: 20px solid rgba(0, 0, 0, 0);
+    top: -10px;
+    content: "";
+    height: 0;
+    left: 0;
+    position: absolute;
+    width: 0;
+}
+
 .icon-pentagon:after {
+    border-left: 20px solid rgba(0, 0, 0, 0);
+    border-right: 20px solid rgba(0, 0, 0, 0);
+    bottom: -10px;
+    content: "";
+    height: 0;
+    left: 0;
+    position: absolute;
+    width: 0;
+}
+.icon-pentagon-new:after {
     border-left: 20px solid rgba(0, 0, 0, 0);
     border-right: 20px solid rgba(0, 0, 0, 0);
     bottom: -10px;

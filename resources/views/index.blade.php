@@ -51,11 +51,29 @@
         </div>
     </div>
 </div> -->
-<video autoplay muted loop id="myVideo" style="width: 1348px;">
+<!-- <video autoplay muted loop id="myVideo" style="width: 1348px; position:absolute; top: 0;">
 
     <source src="public/assets/videos/ved-video.mp4" type="video/mp4">
 
-</video>
+</video> -->
+
+<div class="splide">
+    <div class="splide__track">
+        <ul class="splide__list">
+            <li class="splide__slide">
+                <h2 class="ml2" style="position: absolute; top: 200px; left: 173px;">WEB DEVELOPMENT</h2>
+                <p class="ml2" style="position: absolute; top: 250px; left: 173px;">Hello World</p><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt="">
+            </li>
+            <li class="splide__slide"><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt=""></li>
+            <li class="splide__slide"><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt=""></li>
+            <li class="splide__slide"><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt=""></li>
+            <li class="splide__slide"><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt=""></li>
+            <li class="splide__slide"><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt=""></li>
+            <li class="splide__slide"><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt=""></li>
+        </ul>
+    </div>
+</div>
+
 <!-- Service box start -->
 <section id="service" class="service angle">
     <div class="container">
@@ -560,5 +578,38 @@
         <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" />
         <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" /></svg>
 </div>
+
+<script>
+    new Splide('.splide', {
+        type: 'loop',
+        padding: {
+            right: '5rem',
+            left: '5rem',
+        },
+    }).mount();
+
+    // Wrap every letter in a span
+    var textWrapper = document.querySelector('.ml2');
+    textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+
+    anime.timeline({
+            loop: true
+        })
+        .add({
+            targets: '.ml2 .letter',
+            scale: [4, 1],
+            opacity: [0, 1],
+            translateZ: 0,
+            easing: "easeOutExpo",
+            duration: 950,
+            delay: (el, i) => 70 * i
+        }).add({
+            targets: '.ml2',
+            opacity: 0,
+            duration: 1000,
+            easing: "easeOutExpo",
+            delay: 1000
+        });
+</script>
 
 @endsection
