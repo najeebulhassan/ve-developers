@@ -39,7 +39,7 @@
     <script>
         // Scroll To Top Button//
 
-        // When the user scrolls down 20px from the top of the document, show the button
+        
         window.onscroll = function() {
             scrollFunction()
         };
@@ -47,10 +47,10 @@
         function scrollFunction() {
 
             if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
-                document.getElementById("footer-1").style.display = "block";
+                document.getElementById("header-1").style.background = "transparent";
                 // console.log("hello world")
             } else {
-                document.getElementById("footer-1").style.display = "none";
+                document.getElementById("header-1").style.background = "black";
                 // console.log("hello")
             }
         }
@@ -61,12 +61,12 @@
 
 <body>
 
-    <div id = "footer-1">
+    <div id = "header-1" class="fixed-top">
         <div class="wrap" style="z-index: 100; position:absolute;">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="bg-wrap" style="background: transparent;">
+                        <div class="bg-wrap" >
                             <div class="row">
                                 <div class="col-md-6 d-flex align-items-center">
                                     <p class="mb-0 phone pl-md-2">
