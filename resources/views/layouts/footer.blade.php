@@ -7,9 +7,9 @@
                             <h2 class="footer-heading">About us</h2>
                             <p style="color:white">VEDevelopers is a renowned Web & IT Company in UK providing specialized services in Website Designing, Website Development, Mobile Application Development for Android, Graphics Designing, SEO Services, Digital Marketing and much more.</p>
                             <ul class="ftco-footer-social p-0">
-                                <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Instagram"><span class="fa fa-linkedin"></span></a></li>
+                                <li class="ftco-animate"><a href="https://web.facebook.com/Virtual-Eye-Developers-VED-100648261868593" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
+                                <!-- <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li> -->
+                                <li class="ftco-animate"><a href="https://www.linkedin.com/company/virtual-eye-developers-ved" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
                             </ul>
                         </div>
                         <div class="col-md-8">

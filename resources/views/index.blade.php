@@ -61,8 +61,8 @@
     <div class="splide__track">
         <ul class="splide__list">
             <li class="splide__slide">
-                <h2 class="ml2" style="position: absolute; top: 200px; left: 173px;">WEB DEVELOPMENT</h2>
-                <p class="ml2" style="position: absolute; top: 250px; left: 173px;">Hello World</p><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt="">
+                <h2 class="ml2" style="position: absolute; top: 200px; left: 50px;">WEB DEVELOPMENT</h2>
+                <h2 class="ml3" style="position: absolute; top: 300px; left: 173px;">Hello World</h2><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt="">
             </li>
             <li class="splide__slide"><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt=""></li>
             <li class="splide__slide"><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt=""></li>
@@ -91,7 +91,7 @@
                     <span class="service-icon icon-pentagon"><i class="fas fa-laptop-code"></i></span>
                     <h3>Web Application Development</h3>
                     <p> Our team of dedicated software engineers at VEDevelopers helps you build web applications using the latest cutting edge technology stack…</p><br>
-                    <a href="web-apps-development" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
+                    <a href="web-apps-development" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 20px;">Read More</a>
 
                 </div>
             </div>
@@ -102,7 +102,7 @@
                     <span class="service-icon icon-pentagon"><i class="fa fa-android"></i></span>
                     <h3>Mobile Application Development</h3>
                     <p>Experts at VEDevelopers have significant information on Mobile Technologies(Native Android, Native IOS and Hybrid Mobile Apps). and Frameworks which helps…</p><br>
-                    <a href="mobile-apps-development" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
+                    <a href="mobile-apps-development" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 20px;">Read More</a>
                 </div>
 
             </div>
@@ -113,7 +113,7 @@
                     <span class="service-icon icon-pentagon"><i class="fas fa-database"></i></span>
                     <h3>Databases</h3>
                     <p>An information base is a sorted out assortment of organized data, or information, ordinarily put away electronically in a PC framework. An information base is typically constrained by a data set administration framework…</p> <br>
-                    <a href="databases" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
+                    <a href="databases" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 8px;">Read More</a>
 
                 </div>
             </div>
@@ -127,7 +127,7 @@
                     <span class="service-icon icon-pentagon"><i class="fas fa-poll"></i></span>
                     <h3>Marketing</h3>
                     <p>Marketing refers to the activities of a company who takes the responsibility to promote the buying or selling of a product or service. It includes advertising, selling and delivering products to consumers. At its core…</p> <br>
-                    <a href="marketing" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
+                    <a href="marketing" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 16px;">Read More</a>
 
                 </div>
             </div>
@@ -138,7 +138,7 @@
                     <span class="service-icon icon-pentagon"><i class="fas fa-palette"></i></span>
                     <h3>Graphic Designing</h3>
                     <p>Graphic design is a craft where professionals create visual content to communicate messages and ideas through typography, imagery, color and form…</p> <br>
-                    <a href="graphic-design" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
+                    <a href="graphic-design" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 1px;">Read More</a>
 
                 </div>
             </div>
@@ -149,7 +149,7 @@
                     <span class="service-icon icon-pentagon"><i class="fas fa-laptop-code"></i></span>
                     <h3>Content Writing</h3>
                     <p>A content writer is a professional writer producing an up to dated content to use online. They are internet expert individuals who creates articles, blog posts, and other kinds of written web material…</p> <br>
-                    <a href="content-writing" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
+                    <a href="content-writing" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 16px;">Read More</a>
 
                 </div>
             </div>
@@ -160,7 +160,7 @@
                     <span class="service-icon icon-pentagon"><i class="fas fa-search"></i></span>
                     <h3>Search Engine Optimisation (SEO)</h3>
                     <p>Search Engine Optimization (SEO) is the art and science of getting pages to rank higher in search engines…</p> <br>
-                    <a href="search-engine-optimization" class="btn btn-primary  px-2 py-3" id="services-links">Read More</a>
+                    <a href="search-engine-optimization" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 13px;">Read More</a>
                 </div>
             </div>
 
@@ -170,8 +170,8 @@
 </section>
 <!--/ Service box end -->
 
-<section class="ftco-section bg-light ftco-no-pt">
-    <div class="container">
+<section class="ftco-section bg-light pt-100">
+    <div class="container homepage-icons">
         <div class="row">
             <div class="col-md-6 col-lg-3 d-flex services align-self-stretch px-4 ftco-animate">
                 <div class="d-block">
@@ -219,7 +219,7 @@
             </div>
         </div>
     </div>
-    <div class="container" style="margin-top: 50px;">
+    <div class="container homepage-icons" style="margin-top: 50px;">
         <div class="row">
             <div class="col-md-6 col-lg-3 d-flex services align-self-stretch px-4 ftco-animate">
                 <div class="d-block">
@@ -269,52 +269,7 @@
     </div>
 </section>
 
-<section class="ftco-counter bg-light ftco-no-pt" id="section-counter">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
-                <div class="block-18 text-center">
-                    <div class="text">
-                        <strong class="number" data-number="50">0</strong>
-                    </div>
-                    <div class="text">
-                        <span>Years of Experienced</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
-                <div class="block-18 text-center">
-                    <div class="text">
-                        <strong class="number" data-number="8500">0</strong>
-                    </div>
-                    <div class="text">
-                        <span>Cases Completed</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
-                <div class="block-18 text-center">
-                    <div class="text">
-                        <strong class="number" data-number="20">0</strong>
-                    </div>
-                    <div class="text">
-                        <span>Awards Won</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
-                <div class="block-18 text-center">
-                    <div class="text">
-                        <strong class="number" data-number="50">0</strong>
-                    </div>
-                    <div class="text">
-                        <span>Expert Consultant</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+@include('layouts.number-counter')
 
 <section class="ftco-section testimony-section bg-light">
     <div class="overlay"></div>
@@ -605,6 +560,27 @@
             delay: (el, i) => 70 * i
         }).add({
             targets: '.ml2',
+            opacity: 0,
+            duration: 1000,
+            easing: "easeOutExpo",
+            delay: 1000
+        });
+
+    // Wrap every letter in a span Second Styling
+    var textWrapper = document.querySelector('.ml3');
+    textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+
+    anime.timeline({
+            loop: true
+        })
+        .add({
+            targets: '.ml3 .letter',
+            opacity: [0, 1],
+            easing: "easeInOutQuad",
+            duration: 2250,
+            delay: (el, i) => 150 * (i + 1)
+        }).add({
+            targets: '.ml3',
             opacity: 0,
             duration: 1000,
             easing: "easeOutExpo",
