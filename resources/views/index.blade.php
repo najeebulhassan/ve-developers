@@ -57,19 +57,57 @@
 
 </video> -->
 
+
 <div class="splide">
     <div class="splide__track">
-        <ul class="splide__list">
+        <ul class="splide__list" style="background: #feffa6;">
+
             <li class="splide__slide">
-                <h2 class="ml2" style="position: absolute; top: 200px; left: 50px;">WEB DEVELOPMENT</h2>
-                <h2 class="ml3" style="position: absolute; top: 300px; left: 173px;">Hello World</h2><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt="">
+                <h2 class="" style="position: absolute; top: 222px; left: 100px;">WEB</h2>
+                <h2 class="ml2" style="position: absolute; top: 270px; left: 100px;">DEVELOPMENT</h2>
+                <p style="position: absolute; top: 345px; left: 100px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis <br> nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                <img style="width: 50%; float: right; height: 300px; margin-top: 200px; margin-right: 20px; " src="public/assets/images/ve-developers_4.png" alt="">
             </li>
-            <li class="splide__slide"><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt=""></li>
-            <li class="splide__slide"><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt=""></li>
-            <li class="splide__slide"><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt=""></li>
-            <li class="splide__slide"><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt=""></li>
-            <li class="splide__slide"><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt=""></li>
-            <li class="splide__slide"><img style="width: 100%; height: 625px;" src="public/assets/images/bg5.png" alt=""></li>
+            <li class="splide__slide">
+                <h2 class="" style="position: absolute; top: 222px; left: 100px;">APP</h2>
+                <h2 class="ml3" style="position: absolute; top: 250px; left: 100px;">DEVELOPMENT</h2>
+                <p style="position: absolute; top: 345px; left: 100px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis <br> nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                <img style="width: 28%; float: right; height: 300px; margin-top: 180px; margin-right: 80px; " src="public/assets/images/ve-developers_1.png" alt="">
+            </li>
+            <li class="splide__slide">
+                <h2 class="" style="position: absolute; top: 222px; left: 100px;">SOCIAL</h2>
+                <h2 class="ml10" style="position: absolute; top: 250px; left: 100px;"><span class="text-wrapper"><span class="letters">MEDIA MARKETING</span></span></h2>
+                <p style="position: absolute; top: 345px; left: 100px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis <br> nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                <img style="width: 28%; float: right; height: 300px; margin-top: 200px; margin-right: 80px; " src="public/assets/images/ve-developers_2.png" alt="">
+            </li>
+            <li class="splide__slide">
+                <h2 class="" style="position: absolute; top: 222px; left: 100px;">SEARCH</h2>
+                <h2 class="ml6" style="position: absolute; top: 250px; left: 100px;">
+                    <span class="text-wrapper">
+                        <span class="letters">ENGINE OPTIMIZATION</span>
+                    </span>
+                </h2>
+                <p style="position: absolute; top: 345px; left: 100px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis <br> nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                <img style="width: 28%; float: right; height: 300px; margin-top: 180px; margin-right: 80px; " src="public/assets/images/ve-developers_3.png" alt="">
+            </li>
+
+            <li class="splide__slide">
+                <h2 style="position: absolute; top: 222px; left: 100px;">GRAPHIC</h2>
+
+                <h2 class="ml16" style="position: absolute; top: 230px; left: 100px;">
+                    <span class="text-wrapper">
+                        <span class="line line1"></span>
+                        <span class="letters"><strong> DESIGNING </strong></span>
+                    </span>
+                </h2>
+                <p style="position: absolute; top: 345px; left: 100px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis <br> nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                <img style="width: 30%; float: right; height: 300px; margin-top: 180px; margin-right: 80px;" src="public/assets/images/ve-developers_5.png" alt="">
+            </li>
+
+
+            <!-- <li class="splide__slide"><h2 class="ml" style="position: absolute; top: 270px; left: 10px;">WEB DEVELOPMENT</h2><img style="width: 70%; float: right; height: 400px; margin-top: 175px;" src="public/assets/images/ve-developers_2.png" alt=""></li> -->
+            <!-- <li class="splide__slide"><h2 class="ml" style="position: absolute; top: 270px; left: 10px;">WEB DEVELOPMENT</h2><img style="width: 70%; float: right; height: 400px; margin-top: 175px;" src="public/assets/images/ve-developers_3.png" alt=""></li> -->
+            <!-- <li class="splide__slide"><h2 class="ml" style="position: absolute; top: 270px; left: 10px;">WEB DEVELOPMENT</h2><img style="width: 70%; float: right; height: 400px; margin-top: 175px;" src="public/assets/images/ve-developers_5.png" alt=""></li> -->
         </ul>
     </div>
 </div>
@@ -88,10 +126,10 @@
         <div class="row">
             <div class="col-md-4 col-sm-12">
                 <div class="text-center">
-                    <span class="service-icon icon-pentagon"><i class="fas fa-laptop-code"></i></span>
+                    <span class="service-icon icon-pentagon-new"><i class="fas fa-laptop-code"></i></span>
                     <h3>Web Application Development</h3>
                     <p> Our team of dedicated software engineers at VEDevelopers helps you build web applications using the latest cutting edge technology stack…</p><br>
-                    <a href="web-apps-development" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 20px;">Read More</a>
+                    <a href="web-apps-development" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 8px;">Read More</a>
 
                 </div>
             </div>
@@ -99,10 +137,10 @@
 
             <div class="col-md-4 col-sm-12">
                 <div class="text-center">
-                    <span class="service-icon icon-pentagon"><i class="fa fa-android"></i></span>
+                    <span class="service-icon icon-pentagon-new"><i class="fa fa-android"></i></span>
                     <h3>Mobile Application Development</h3>
                     <p>Experts at VEDevelopers have significant information on Mobile Technologies(Native Android, Native IOS and Hybrid Mobile Apps). and Frameworks which helps…</p><br>
-                    <a href="mobile-apps-development" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 20px;">Read More</a>
+                    <a href="mobile-apps-development" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 8px;">Read More</a>
                 </div>
 
             </div>
@@ -110,9 +148,9 @@
 
             <div class="col-md-4 col-sm-12">
                 <div class="text-center">
-                    <span class="service-icon icon-pentagon"><i class="fas fa-database"></i></span>
+                    <span class="service-icon icon-pentagon-new"><i class="fas fa-database"></i></span>
                     <h3>Databases</h3>
-                    <p>An information base is a sorted out assortment of organized data, or information, ordinarily put away electronically in a PC framework. An information base is typically constrained by a data set administration framework…</p> <br>
+                    <p style="margin-top: 50px;">An information base is a sorted out assortment of organized data, or information, ordinarily put away electronically in a PC framework. An information base…</p> <br>
                     <a href="databases" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 8px;">Read More</a>
 
                 </div>
@@ -124,10 +162,10 @@
         <div class="row">
             <div class="col-md-3 col-sm-12">
                 <div class="text-center">
-                    <span class="service-icon icon-pentagon"><i class="fas fa-poll"></i></span>
+                    <span class="service-icon icon-pentagon-new"><i class="fas fa-poll"></i></span>
                     <h3>Marketing</h3>
-                    <p>Marketing refers to the activities of a company who takes the responsibility to promote the buying or selling of a product or service. It includes advertising, selling and delivering products to consumers. At its core…</p> <br>
-                    <a href="marketing" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 16px;">Read More</a>
+                    <p style="margin-top: 50px;">Marketing refers to the activities of a company who takes the responsibility to promote the buying or selling of a…</p> <br>
+                    <a href="marketing" class="btn btn-primary  px-2 py-3" id="services-links" >Read More</a>
 
                 </div>
             </div>
@@ -135,10 +173,10 @@
 
             <div class="col-md-3 col-sm-12">
                 <div class="text-center">
-                    <span class="service-icon icon-pentagon"><i class="fas fa-palette"></i></span>
+                    <span class="service-icon icon-pentagon-new"><i class="fas fa-palette"></i></span>
                     <h3>Graphic Designing</h3>
-                    <p>Graphic design is a craft where professionals create visual content to communicate messages and ideas through typography, imagery, color and form…</p> <br>
-                    <a href="graphic-design" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 1px;">Read More</a>
+                    <p>Graphic design is a craft where professionals create visual content to communicate messages and ideas…</p> <br>
+                    <a href="graphic-design" class="btn btn-primary  px-2 py-3" id="services-links" >Read More</a>
 
                 </div>
             </div>
@@ -146,10 +184,10 @@
 
             <div class="col-md-3 col-sm-12">
                 <div class="text-center">
-                    <span class="service-icon icon-pentagon"><i class="fas fa-laptop-code"></i></span>
+                    <span class="service-icon icon-pentagon-new"><i class="fas fa-laptop-code"></i></span>
                     <h3>Content Writing</h3>
-                    <p>A content writer is a professional writer producing an up to dated content to use online. They are internet expert individuals who creates articles, blog posts, and other kinds of written web material…</p> <br>
-                    <a href="content-writing" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 16px;">Read More</a>
+                    <p style="margin-top: 50px;">A content writer is a professional writer producing an up to dated content to use online. They are internet expert individuals…</p> <br>
+                    <a href="content-writing" class="btn btn-primary  px-2 py-3" id="services-links" >Read More</a>
 
                 </div>
             </div>
@@ -157,10 +195,10 @@
 
             <div class="col-md-3 col-sm-3">
                 <div class="text-center">
-                    <span class="service-icon icon-pentagon"><i class="fas fa-search"></i></span>
-                    <h3>Search Engine Optimisation (SEO)</h3>
+                    <span class="service-icon icon-pentagon-new"><i class="fas fa-search"></i></span>
+                    <h3>Search Engine Optimization </h3>
                     <p>Search Engine Optimization (SEO) is the art and science of getting pages to rank higher in search engines…</p> <br>
-                    <a href="search-engine-optimization" class="btn btn-primary  px-2 py-3" id="services-links" style="margin-top: 13px;">Read More</a>
+                    <a href="search-engine-optimization" class="btn btn-primary  px-2 py-3" id="services-links" >Read More</a>
                 </div>
             </div>
 
@@ -535,6 +573,51 @@
 </div>
 
 <script>
+    // Wrap every letter in a span
+    var textWrapper = document.querySelector('.ml16');
+    textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+
+    anime.timeline({
+            loop: true
+        })
+        .add({
+            targets: '.ml16 .letter',
+            translateY: [-100, 0],
+            easing: "easeOutExpo",
+            duration: 1400,
+            delay: (el, i) => 30 * i
+        }).add({
+            targets: '.ml16',
+            opacity: 0,
+            duration: 1000,
+            easing: "easeOutExpo",
+            delay: 1000
+        });
+</script>
+<script>
+    // Wrap every letter in a span
+    var textWrapper = document.querySelector('.ml6 .letters');
+    textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+
+    anime.timeline({
+            loop: true
+        })
+        .add({
+            targets: '.ml6 .letter',
+            translateY: ["1.1em", 0],
+            translateZ: 0,
+            duration: 750,
+            delay: (el, i) => 50 * i
+        }).add({
+            targets: '.ml6',
+            opacity: 0,
+            duration: 1000,
+            easing: "easeOutExpo",
+            delay: 1000
+        });
+</script>
+
+<script>
     new Splide('.splide', {
         type: 'loop',
         padding: {
@@ -587,5 +670,28 @@
             delay: 1000
         });
 </script>
+
+<script>
+    // Wrap every letter in a span
+    var textWrapper = document.querySelector('.ml10 .letters');
+    textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+
+    anime.timeline({
+            loop: true
+        })
+        .add({
+            targets: '.ml10 .letter',
+            rotateY: [-90, 0],
+            duration: 1300,
+            delay: (el, i) => 45 * i
+        }).add({
+            targets: '.ml10',
+            opacity: 0,
+            duration: 1000,
+            easing: "easeOutExpo",
+            delay: 1000
+        });
+</script>
+
 
 @endsection

@@ -4,40 +4,40 @@
             <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
                 <div class="block-18 text-center">
                     <div class="text">
-                        <strong class="number" data-number="50">0</strong>
+                        <strong class="number" data-number="43">0</strong>
                     </div>
                     <div class="text">
-                        <span>Years of Experienced</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
-                <div class="block-18 text-center">
-                    <div class="text">
-                        <strong class="number" data-number="8500">0</strong>
-                    </div>
-                    <div class="text">
-                        <span>Cases Completed</span>
+                        <span>Years and Beyond</span>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
                 <div class="block-18 text-center">
                     <div class="text">
-                        <strong class="number" data-number="20">0</strong>
+                        <strong class="number" data-number="3000">0</strong>
                     </div>
                     <div class="text">
-                        <span>Awards Won</span>
+                        <span>Employees</span>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
                 <div class="block-18 text-center">
                     <div class="text">
-                        <strong class="number" data-number="50">0</strong>
+                        <strong class="number" data-number="4">0</strong>
                     </div>
                     <div class="text">
-                        <span>Expert Consultant</span>
+                        <span>Continents</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
+                <div class="block-18 text-center">
+                    <div class="text">
+                        <strong class="number" data-number="400">0</strong>
+                    </div>
+                    <div class="text">
+                        <span>Satisfied Customers</span>
                     </div>
                 </div>
             </div>
