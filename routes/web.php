@@ -58,3 +58,6 @@ Route::get('search-engine-optimization', function () {
 Route::get('content-writing', function () {
     return view('content-writing');
 });
+Route::get('privacy-policy', function () {
+    return view('privacy-policy');
+});

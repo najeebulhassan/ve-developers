@@ -40,7 +40,7 @@
                                                 <li><a href="#" class="py-1 d-block">Security</a></li>
                                                 <li><a href="#" class="py-1 d-block">Global</a></li>
                                                 <li><a href="#" class="py-1 d-block">Charts</a></li>
-                                                <li><a href="#" class="py-1 d-block">Privacy</a></li>
+                                                <li><a href="privacy-policy" class="py-1 d-block">Privacy Policy</a></li>
                                             </ul>
                                         </div>
                                     </div>

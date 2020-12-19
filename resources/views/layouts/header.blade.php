@@ -88,7 +88,7 @@
         </div>
         <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar" style="position: absolute; top: 40px; z-index: 100; width: 100%;">
             <div class="container">
-                <a class="navbar-brand" href="{{url('/')}}"><img class="img-fluid" src="public/assets/ved-logo-2.png"></a>
+                <a class="navbar-brand" href="{{url('/')}}"><img class="img-fluid" style="width: 200px;" src="public/assets/VED logo-11.png"></a>
                 <!-- <form action="#" class="searchform order-sm-start order-lg-last">
                 <div class="form-group d-flex">
                     <input type="text" class="form-control pl-3" placeholder="Search">
@@ -144,7 +144,7 @@
         </div>
         <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar" style="position: absolute; top: 40px; z-index: 100; width: 100%; background: #FFFFFF !important;">
             <div class="container">
-                <a class="navbar-brand" href="{{url('/')}}"><img class="img-fluid" src="public/assets/ved-logo-2.png"></a>
+                <a class="navbar-brand" href="{{url('/')}}"><img class="img-fluid" style="width: 200px;" src="public/assets/VED logo-11.png"></a>
                 <!-- <form action="#" class="searchform order-sm-start order-lg-last">
                 <div class="form-group d-flex">
                     <input type="text" class="form-control pl-3" placeholder="Search">

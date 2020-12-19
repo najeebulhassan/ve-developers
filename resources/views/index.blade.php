@@ -60,24 +60,24 @@
 
 <div class="splide">
     <div class="splide__track">
-        <ul class="splide__list" style="background: #feffa6;">
+        <ul class="splide__list" style="background: #bfe6f2;">
 
             <li class="splide__slide">
                 <h2 class="" style="position: absolute; top: 222px; left: 100px;">WEB</h2>
                 <h2 class="ml2" style="position: absolute; top: 270px; left: 100px;">DEVELOPMENT</h2>
-                <p style="position: absolute; top: 345px; left: 100px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis <br> nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                <p style="position: absolute; top: 345px; left: 100px;">Our team of dedicated software engineers at VEDevelopers helps you build web <br> applications using the latest cutting edge technology stack which includes but not <br> limited to Python/Django, Flask, NodeJS/ExpressJS, Laravel, Ruby on Rails and <br> ASP.NET on the backend as well as React, Angular and Vue on the frontend. </p>
                 <img style="width: 50%; float: right; height: 300px; margin-top: 200px; margin-right: 20px; " src="public/assets/images/ve-developers_4.png" alt="">
             </li>
             <li class="splide__slide">
                 <h2 class="" style="position: absolute; top: 222px; left: 100px;">APP</h2>
                 <h2 class="ml3" style="position: absolute; top: 250px; left: 100px;">DEVELOPMENT</h2>
-                <p style="position: absolute; top: 345px; left: 100px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis <br> nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                <p style="position: absolute; top: 345px; left: 100px;">Experts at VEDevelopers have significant information on Mobile Technologies(Native <br> Android, Native IOS and Hybrid Mobile Apps) and Frameworks which helps in building <br> a safe and versatile responsive plan with incredible UI/UX for IOS and Android gadgets <br> and will be advanced for speed effectiveness and security.</p>
                 <img style="width: 28%; float: right; height: 300px; margin-top: 180px; margin-right: 80px; " src="public/assets/images/ve-developers_1.png" alt="">
             </li>
             <li class="splide__slide">
                 <h2 class="" style="position: absolute; top: 222px; left: 100px;">SOCIAL</h2>
                 <h2 class="ml10" style="position: absolute; top: 250px; left: 100px;"><span class="text-wrapper"><span class="letters">MEDIA MARKETING</span></span></h2>
-                <p style="position: absolute; top: 345px; left: 100px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis <br> nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                <p style="position: absolute; top: 345px; left: 100px;">Social Media Marketing is creating a content to promote your brand and products via using <br> various social media platforms like Facebook, Instagram, LinkedIn, Snapchat, Youtube, <br> Pinterest and Twitter. It is a very useful way to build your brand, increase sales, and drive website traffic. </p>
                 <img style="width: 28%; float: right; height: 300px; margin-top: 200px; margin-right: 80px; " src="public/assets/images/ve-developers_2.png" alt="">
             </li>
             <li class="splide__slide">
@@ -87,7 +87,7 @@
                         <span class="letters">ENGINE OPTIMIZATION</span>
                     </span>
                 </h2>
-                <p style="position: absolute; top: 345px; left: 100px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis <br> nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                <p style="position: absolute; top: 345px; left: 100px;">Search Engine Optimization (SEO) is the art and science of getting pages to rank higher <br> in search engines, for example, Google. Since search is one of the fundamental manners <br> by which individuals find content online, positioning higher in search engines can <br> prompt an expansion in traffic to a site. </p>
                 <img style="width: 28%; float: right; height: 300px; margin-top: 180px; margin-right: 80px; " src="public/assets/images/ve-developers_3.png" alt="">
             </li>
 
@@ -100,7 +100,7 @@
                         <span class="letters"><strong> DESIGNING </strong></span>
                     </span>
                 </h2>
-                <p style="position: absolute; top: 345px; left: 100px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis <br> nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                <p style="position: absolute; top: 345px; left: 100px;">Graphic design is a craft where professionals create visual content to communicate <br> messages and ideas through typography, imagery, color and form. There are several <br> ways of doing that, each with its own area of specialization.</p>
                 <img style="width: 30%; float: right; height: 300px; margin-top: 180px; margin-right: 80px;" src="public/assets/images/ve-developers_5.png" alt="">
             </li>
 
